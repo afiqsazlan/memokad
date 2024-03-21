@@ -1,5 +1,7 @@
 <template>
-    <h1 class="text-3xl font-bold underline">
-        Hello world!
-    </h1>
+  <h1>Memokad</h1>
+    <NuxtPage/>
+    <div>
+        Foot
+    </div>
 </template>
